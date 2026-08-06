@@ -1,1 +1,20 @@
+{
+    "id": 2679,
+    "name": "Glory",
+    "author": "Slayer1GD",
+    "creators": [
+        "Slayer1GD"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://youtu.be/ZL3taeyfr4A",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 
+}
