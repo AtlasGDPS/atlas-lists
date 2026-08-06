@@ -1,0 +1,44 @@
+{
+    "id": 3239,
+    "name": "Matte Wave Trials",
+    "author": "Aris",
+    "creators": ["Aris"],
+    "verifier": "Lolly6969",
+    "verification": "https://www.youtube.com/watch?v=t5ncjRoeayI",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+               "user": "rat",
+            "link": "https://www.youtube.com/watch?v=c9yl_1npBBQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+    
+           "user": "Dynamic",
+            "link": "https://drive.google.com/file/d/1NJ0ha9uNmUpeX-MN7IMhiBUCHTIV04NJ/view",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=NuMDeSCJtd8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/MV-B2tEURF8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=eLvO7YNDUzQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
