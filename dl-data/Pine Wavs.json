@@ -1,0 +1,35 @@
+{
+    "id": 31,
+    "name": "Pine wavs",
+    "author": "plantis",
+    "creators": [
+        "plantis"
+    ],
+    "verifier": "funnelltime",
+    "verification": "https://www.youtube.com/watch?v=EPDfQ5Ldvto",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/64MaHUMbEeE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Lolly6969",
+            "link": "https://www.youtube.com/watch?v=C0rT-TR3cS8",
+            "percent": 100,
+            "hz": 120
+        },
+         {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=66HS5913dSM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+
+

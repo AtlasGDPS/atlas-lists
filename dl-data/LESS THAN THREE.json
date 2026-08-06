@@ -1,0 +1,22 @@
+{
+    "id": 3781,
+    "name": "LESS THAN THREE",
+    "author": "Aris",
+    "creators": [
+        "Rat"
+    ],
+    "verifier": "Aris",
+    "verification": "https://youtu.be/SDBmlZ-AU5A",
+    "showcase": "https://youtu.be/_WAv4Cn_zTw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

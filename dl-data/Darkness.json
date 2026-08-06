@@ -1,0 +1,20 @@
+{
+    "id": 726,
+    "name": "Darkness",
+    "author": "Rat",
+    "creators": [
+        "Rat"
+    ],
+    "verifier": "videogamermega",
+    "verification": "https://youtube.com/watch?v=w5YsUjZpgx0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/1oxSLw4B3uI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+
+}

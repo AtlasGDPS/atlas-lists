@@ -1,0 +1,35 @@
+{
+    "id": 1029,
+    "name": "COLON THREE",
+    "author": "Rat",
+    "creators": [
+        "Rat"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/9jyGv5Lo4ZE",
+    "showcase": "https://youtu.be/9jyGv5Lo4ZE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/eVgorz_mISM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://youtu.be/pGN_bZMXtFc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "haturz1",
+            "link": "https://youtu.be/nQu96UjbCko",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        }
+    ]
+
+}
+

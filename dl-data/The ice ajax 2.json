@@ -1,0 +1,26 @@
+{
+    "id": 1090,
+    "name": "The ice ajax 2",
+    "author": "diopercava",
+    "creators": [
+        "diopercava"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/9v4B7UwcWAU?si=3qj1-FCJf2Ffmkgx",
+    "percentToQualify": 44,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/iudJzjEES2s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1tSFLDqI1T-O8WDR1ekbaOpCsxzAvUisc/view",
+            "percent": 100, "hz": 60
+        }
+    ]
+}
+
+

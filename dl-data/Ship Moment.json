@@ -1,0 +1,25 @@
+{
+    "id": 1895,
+    "name": "Ship Moment",
+    "author": "funnelltime",
+    "creators": [
+        "funnelltime"
+    ],
+    "verifier": "funnelltime",
+    "verification": "https://www.youtube.com/watch?v=yvUGkWBsbkA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/IU2cvYUyVnY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+        	"user": "Lolly6969", "link": "https://www.youtube.com/watch?v=LBaB0d0eP9w&t=480s", "percent": 100, "hz": 120
+        	}
+        
+    ]
+
+}
+

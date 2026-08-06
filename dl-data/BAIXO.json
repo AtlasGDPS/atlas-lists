@@ -1,0 +1,32 @@
+{
+    "id": 579,
+    "name": "BAIXO",
+    "author": "PrismGDPS",
+    "creators": [
+        "Zympl1x"
+    ],
+    "verifier": "cyolix",
+    "verification": "https://youtu.be/2OT5jXEkVow",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=b8S42h1juic",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Whaphle",
+            "link": "https://www.youtube.com/watch?v=CplZ5272ZHQ",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "KingTY3",
+            "link": "https://www.youtube.com/watch?v=WatKlAiPNNg",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}

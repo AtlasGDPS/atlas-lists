@@ -1,0 +1,33 @@
+
+{
+    "id": 699,
+    "name": "Final Flight",
+    "author": "Clark557",
+    "creators": [
+        "Clark557"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/z23JuzHh4nc?si=7X81HAEb9NNq-PIh",
+    "percentToQualify": 44,
+    "records": [
+        {
+            "user": "Meta Knight",
+            "link": "https://medal.tv/games/geometry-dash/clips/lBMmypnvRbE8f4Dr0?invite=cr-MSxNOVcsMjE3OTQ1MTIz&v=31",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/R1TLrwV8NNY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+"user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1-v-CYcG8xUdbWZavj30u3H0OYWbMfWUn/view",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+

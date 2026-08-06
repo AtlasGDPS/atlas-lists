@@ -1,0 +1,21 @@
+{
+    "id": 5234,
+    "name": "Akeron",
+    "author": "lily",
+    "creators": [
+        "lily"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/-2Qc8R-YRzU",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

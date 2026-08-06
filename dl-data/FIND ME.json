@@ -1,0 +1,50 @@
+{
+    "id": 2990,
+    "name": "FIND ME",
+    "author": "Volxy",
+    "creators": [
+        "Volxy"
+    ],
+    "verifier": "Volxy",
+    "verification": "https://youtu.be/e787B-DC9UY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "funnelltime",
+            "link": "https://www.youtube.com/watch?v=axknoCLCBEc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/5HqFV33GkhA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Meta Knight",
+            "link": "https://medal.tv/games/geometry-dash/clips/mILUMvj5fFa8CjOR8?invite=cr-MSxhdXEsMjE3OTQ1MTIz",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "snowfall",
+            "link": "https://drive.google.com/file/d/1O3bfyC3BP1QDHQcEBju4MmIxUkMzqvZ1/view?pli=1",
+            "percent": 100,
+            "hz": 120
+        },
+       {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=a2qg_qgdkQs",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "Lolly6969",
+            "link": "https://youtu.be/qbsDTJGc5Kg?si=DltHM1FoOGLWnGJD&t=903",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}

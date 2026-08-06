@@ -1,0 +1,22 @@
+{
+    "id": 3166,
+    "name": "Galaxy Wave",
+    "author": "lily",
+    "creators": [
+        "lily", "Moon"
+    ],
+    "verifier": "ari",
+    "verification": "https://www.youtube.com/watch?v=3Co2STUv8lA",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Slopes",
+            "link": "https://drive.google.com/file/d/1HNWe7xmZfvJfYX6RzTDMExpUwRb33azf/view",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

@@ -1,0 +1,26 @@
+{
+    "id": 2771,
+    "name": "Atlasnouement",
+    "author": "Vixon",
+    "creators": [
+        "Vixon"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/PWNs58mr3I0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SLAGX",
+            "link": "https://youtu.be/HAbeh31E0PM?si=I4DrKTDsFu97yQd2",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Michalwhow", "link": "https://drive.google.com/file/d/1q3v3t2b_LDqxYV2F88x9HWKy_5r_b3G9/view",
+            "percent": 100, "hz": 60
+        }
+    ]
+
+}
+

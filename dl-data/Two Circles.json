@@ -1,0 +1,21 @@
+{
+    "id": 2666,
+    "name": "Two Circles",
+    "author": "AlsoMan2",
+    "creators": [
+        "AlsoMan2"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://www.youtube.com/watch?v=2AV46uLNxA8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Whaphle",
+            "link": "https://youtu.be/j9GKCcT5DBs?t=109",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+
+}

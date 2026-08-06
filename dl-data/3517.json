@@ -1,0 +1,21 @@
+{
+    "id": 3517,
+    "name": "Shortslop III",
+    "author": "River",
+    "creators": [
+        "River"
+    ],
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=ujRA8A0QX9Q",
+    "showcase": "https://www.youtube.com/watch?v=ujRA8A0QX9Q",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=kcLtOJ6bzq4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

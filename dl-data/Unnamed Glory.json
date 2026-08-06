@@ -1,0 +1,21 @@
+{
+    "id": 3101,
+    "name": "Unnamed Glory",
+    "author": "Slayer1GD",
+    "creators": [
+        "Slayer1GD"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://youtu.be/vmg8cfWwb2M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Koji",
+            "link": "https://youtu.be/ocQKa0ZvOtc",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+        }
+    ]
+
+}

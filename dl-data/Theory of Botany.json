@@ -1,0 +1,27 @@
+{
+    "id": 497,
+    "name": "Theory of Botany",
+    "author": "GWelectro",
+    "creators": [
+        "GWelectro"
+    ],
+    "verifier": "Haturz1",
+    "verification": "https://www.youtube.com/watch?v=XpDd2mZWAvI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Whaphle",
+            "link": "https://www.youtube.com/watch?v=ALXtsnCKuD8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+     {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=o69k5kHLi2Q",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

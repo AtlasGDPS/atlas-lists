@@ -1,0 +1,40 @@
+{
+    "id": 1772,
+    "name": "DIABLO X",
+    "author": "Cris",
+    "creators": [
+        "Cris"
+    ],
+    "verifier": "funnelltime",
+    "verification": "https://www.youtube.com/watch?v=gQBljXme1T8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lolly6969",
+            "link": "https://www.youtube.com/watch?v=6akLXoO9EzE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Slopes",
+            "link": "https://youtu.be/YHBicWHfq5c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/FzSfltdJOJY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DubbyBall",
+            "link": "https://youtu.be/OmFuYIt18vk",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}
+
+

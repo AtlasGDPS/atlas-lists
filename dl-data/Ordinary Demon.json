@@ -1,0 +1,31 @@
+{
+    "id": 227,
+    "name": "Ordinary Demon",
+    "author": "Lowell06",
+    "creators": [
+        "Lowell06"
+    ],
+    "verifier": "Lowell06",
+    "verification": "https://youtu.be/J9IGO0j2Llw?si=Gc6dNm0MJBjMbgL4",
+    "percentToQualify": 0,
+    "records": [
+        {
+            "user": "Meta Knight",
+            "link": "https://medal.tv/games/geometry-dash/clips/lBKmFlU0PMw2N913k?invite=cr-MSxuc2ksMjE3OTQ1MTIz&v=120",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1TFHBEkcp2ZiR05avose2JMCs1YDrSeeW/view",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+        	"user": "ari",
+        	"link": "https://youtu.be/HrPs4r-ulJI",
+        	"percent": 100,
+        	"hz": 360
+        }
+    ]
+}

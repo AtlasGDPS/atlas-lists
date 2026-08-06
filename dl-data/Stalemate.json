@@ -1,0 +1,52 @@
+{
+    "id": 420,
+    "name": "Stalemate",
+    "author": "funnelltime",
+    "creators": [
+        "funnelltime"
+    ],
+    "verifier": "FidW",
+    "verification": "https://www.youtube.com/watch?v=DpooQg9K-20",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Meta Knight",
+            "link": "https://youtu.be/9kpV6fKhhEw?si=ErylZVs36vGqYGbM",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Zunora",
+            "link": "https://youtu.be/gimQjHHjfsM?si=zyE0WxZ7bJZgliA-",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/FDMrBLh4WTY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/16ZLqrJpLt95DogWjxZhZEcEkNnZNBN57/view",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "haturz1",
+            "link": "https://www.youtube.com/watch?v=i8Q88RqhZyw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+        	"user": "Fuji",
+        	"link": "https://medal.tv/games/imported-clips/clips/nf3SeVDK160HBzqpH?invite=cr-MSxpWEcsNDY3ODkxNDk1",
+        	"percent": 100,
+        	"hz": 120
+        }
+    ]
+    
+
+}
+

@@ -1,0 +1,22 @@
+{
+    "id": 3551,
+    "name": "Aquamarine",
+    "author": "Teamcrystal",
+    "creators": [
+        "adam, lily, aviv, quantical, toastify"
+    ],
+    "verifier": "Aris",
+    "verification": "https://youtu.be/Wb3iLy4-0Ek",
+    "showcase": "https://youtu.be/Wb3iLy4-0Ek",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

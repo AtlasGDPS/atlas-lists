@@ -1,0 +1,26 @@
+{
+    "id": 4357,
+    "name": "Shortslop IV",
+    "author": "River",
+    "creators": [
+        "River"
+    ],
+    "verifier": "River",
+    "verification": "https://youtu.be/h-fF63DFDqA?t=56",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://youtu.be/C0wOioV4NOw?si=e9fWgh1SMZksa2bX&t=271",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "Whaphle",
+            "link": "https://www.youtube.com/watch?v=CplZ5272ZHQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

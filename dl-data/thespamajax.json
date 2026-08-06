@@ -1,0 +1,22 @@
+{
+    "id": 3689,
+    "name": "The Spam Ajax",
+    "author": "Rat",
+    "creators": [
+        "Rat, ari"
+    ],
+    "verifier": "ari",
+    "verification": "https://www.youtube.com/watch?v=paePve6lY9E",
+    "showcase": "https://www.youtube.com/watch?v=paePve6lY9E",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

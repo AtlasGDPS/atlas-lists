@@ -1,0 +1,40 @@
+{
+    "id": 3515,
+    "name": "Shortslop II",
+    "author": "River",
+    "creators": [
+        "River"
+    ],
+    "verifier": "ari",
+    "verification": "https://www.youtube.com/watch?v=xXdqrXHioMU",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=94F6PcUgVT4",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "snowfall",
+            "link": "https://drive.google.com/file/d/152FcvHtyZrWFXi2NMFLiu-_N2wCcqYuH/view",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Slopes",
+            "link": "https://drive.google.com/file/d/1_R5JrYUZrZrpDr5ju05DFnAufskB8Xl7/view",
+            "percent": 100,
+            "hz": 240
+        },
+     {
+            "user": "Lolly6969",
+            "link": "https://youtu.be/pWCtQhCRTwg?si=Gi_XQvPtoKhhHvpw&t=332",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}
+

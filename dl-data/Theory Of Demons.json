@@ -1,0 +1,21 @@
+{
+    "id": 248,
+    "name": "Theory Of Demons",
+    "author": "funnelltime",
+    "creators": [
+        "funnelltime",
+        "Hoggy"
+    ],
+    "verifier": "funnelltime",
+    "verification": "https://www.youtube.com/watch?v=ZB9VMXvbBh4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://youtu.be/gDfjc6is9c8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

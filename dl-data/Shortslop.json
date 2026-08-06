@@ -1,0 +1,32 @@
+{
+    "id": 3476,
+    "name": "shortslop",
+    "author": "River",
+    "creators": [
+        "River"
+    ],
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=QhH_tWiK12g",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://drive.google.com/file/d/1jbaG0xdEdTWhG6xcQvLNRIKQqTW57ro0/view?usp=sharing",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://youtu.be/0rnNEV6GNQU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Whaphle",
+            "link": "https://www.youtube.com/watch?v=uMJhVQL9XPk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+}

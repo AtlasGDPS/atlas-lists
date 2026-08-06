@@ -1,0 +1,30 @@
+{
+    "id": 93,
+    "name": "Flappy trip",
+    "author": "Onix",
+    "creators": [
+        "Onix"
+    ],
+    "verifier": "JustCubey",
+    "verification": "https://www.youtube.com/watch?v=AM_JBp5JPyA",
+    "showcase": "https://www.youtube.com/watch?v=AM_JBp5JPyA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "cyolix",
+            "link": "https://youtu.be/ymGtqxVQneI?si=libFAqOrOkPvTUL5",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1vZydOQgaO5xZI_cqrf2ysfQMlgZZ_54s/view",
+            "hz": 60,
+            "percent": 100,
+            "message": "haha i switched it - cyolix"
+        }
+    ]
+
+}
+

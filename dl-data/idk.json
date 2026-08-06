@@ -1,0 +1,21 @@
+{
+    "id": 231,
+    "name": "idk",
+    "author": "haturz1",
+    "creators": [
+        "haturz1"
+    ],
+    "verifier": "haturz1",
+    "verification": "https://youtu.be/9b4ZqohVick?si=Mvm_T9ZbT5W9-mCy",
+    "showcase": "https://youtu.be/9b4ZqohVick?si=Mvm_T9ZbT5W9-mCy",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

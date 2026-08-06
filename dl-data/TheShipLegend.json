@@ -1,0 +1,27 @@
+{
+    "id": 2261,
+    "name": "The Ship Legend",
+    "author": "CoolGuy",
+    "creators": [
+        "CoolGuy"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/Hx8109diBfY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lolly6969",
+            "link": "https://youtu.be/tMXH_4pGa10?si=0lrV40Lm_5e85oNl&t=775",
+            "percent": 100,
+            "hz": 120
+        },
+         {
+            "user": "Slopes",
+            "link": "https://drive.google.com/file/d/1fnsYcBn1CI4dfH-0jcLNkGqNzd2jnubb/view",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

@@ -1,0 +1,28 @@
+{
+    "id": 2808,
+    "name": "Renounement",
+    "author": "Xdc",
+    "creators": [
+        "Xdc"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/r61K4yTJj2Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://youtu.be/vmbsypDCBdg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "heksusegor",
+            "link": "https://youtu.be/4MefTRslj9k",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+
+}
+
+

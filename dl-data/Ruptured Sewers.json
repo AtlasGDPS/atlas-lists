@@ -1,0 +1,32 @@
+{
+    "id": 1094,
+    "name": "Ruptured Sewers",
+    "author": "diophercava",
+    "creators": [
+        "diophercava"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/uSA9-Hm19no?si=iK4gmo-wA8G26nt2",
+    "percentToQualify": 44,
+    "records": [
+        {
+            "user": "funnelltime",
+            "link": "https://www.youtube.com/watch?v=UbnHsfFRnWE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/4blnwdYiCoI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1FXKgkRTcr-rHBlPqHsamcDM-Yv3r-60R/view",
+            "percent": 100, "hz": 60
+        }
+    ]
+
+}
+

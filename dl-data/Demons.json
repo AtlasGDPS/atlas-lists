@@ -1,0 +1,20 @@
+{
+    "id": 966,
+    "name": "Demons",
+    "author": "HommaS",
+    "creators": [
+        "HommaS"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://www.youtube.com/watch?v=_FNHflULlQo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://www.youtube.com/watch?v=vr2y4EBoR4Y",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

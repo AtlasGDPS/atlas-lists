@@ -1,0 +1,21 @@
+{
+    "id": 1519,
+    "name": "Ordination",
+    "author": "cookie",
+    "creators": [
+        "cookie"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/aelWkqpTXZg",
+    "showcase": "https://youtu.be/-HpATD5lqZ0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

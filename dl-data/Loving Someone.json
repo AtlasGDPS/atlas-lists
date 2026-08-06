@@ -1,0 +1,40 @@
+{
+    "id": 2992,
+    "name": "Loving Someone",
+    "author": "Volxy",
+    "creators": [
+        "Volxy"
+    ],
+    "verifier": "Volxy",
+    "verification": "https://youtu.be/1qDaiMqmRI4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Whaphle",
+            "link": "https://youtu.be/r10XIN2241c?si=b_lnEohx6gnk2U7a",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "funnelltime",
+            "link": "https://www.youtube.com/watch?v=aSTkA9oB1jE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/iszdD_jSCM8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1ehvzkVuseC-K8Mtq-551_WsYUo8VLq0-/view",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

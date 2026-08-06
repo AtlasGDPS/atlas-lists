@@ -1,0 +1,21 @@
+{
+    "id": 1572,
+    "name": "El Dorito",
+    "author": "haturz1",
+    "creators": [
+        "supermint"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/zjlhmhbnhTU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

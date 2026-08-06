@@ -1,0 +1,29 @@
+{
+    "id": 740,
+    "name": "3",
+    "author": "Rat",
+    "creators": [
+     "Rat"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/KbBVs20Ilr8",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://youtu.be/5_sw8gQjxuw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cyolix",
+            "link": "https://youtu.be/xTf38ISJRaU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+
+}
+

@@ -1,0 +1,20 @@
+{
+    "id": 2174,
+    "name": "harder than ts2",
+    "author": "ABSO",
+    "creators": [
+        "ABSO"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/hOHEofwLvDI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "CoolGuy",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 6767
+        }
+    ]
+
+}

@@ -1,0 +1,41 @@
+{
+
+    "id": 3772,
+
+    "name": "Cry me a River",
+
+    "author": "rat",
+
+    "creators": [
+
+        "rat"
+
+    ],
+
+    "verifier": "rat",
+
+    "verification": "https://youtu.be/qnp-A5yiJ6Q?is=H8C3QeFafYguCWOZ",
+
+    "percentToQualify": 0,
+
+    "records": [
+
+        {
+
+            "user": "ari",
+
+            "link": "https://youtu.be/s8EYPqs3kqU",
+
+            "percent": 100,
+
+            "hz": 360
+            
+        }
+
+
+        
+    ]
+
+
+
+}

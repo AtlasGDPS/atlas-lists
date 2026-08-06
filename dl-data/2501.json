@@ -1,0 +1,22 @@
+{
+    "id": 2501,
+    "name": "spam moment",
+    "author": "ari",
+    "creators": [
+        "ari"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/6BBEA1tp03Q?si=yx5wfmgucCj3aE_x",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+
+

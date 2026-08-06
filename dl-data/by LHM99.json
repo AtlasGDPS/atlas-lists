@@ -1,0 +1,20 @@
+{
+    "id": 72,
+    "name": "‌",
+    "author": "LHM99",
+    "creators": [
+        "LHM99"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/aOKL0AOJuDY?t=148",
+    "percentToQualify": 100,
+    "records": [
+         {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=lKzltXuall0",
+            "percent": 100,
+            "hz": 60
+         }   
+    ]
+
+}

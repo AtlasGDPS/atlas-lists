@@ -1,0 +1,21 @@
+{
+    "id": 1952,
+    "name": "idk II",
+    "author": "haturz1",
+    "creators": [
+        "haturz1"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://www.youtube.com/watch?v=0XRduvEuJgo",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=JSVKmP3viFM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

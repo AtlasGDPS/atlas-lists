@@ -1,0 +1,21 @@
+{
+    "id": 773,
+    "name": "Botanys Demise",
+    "author": "Rat",
+    "creators": [
+        "Rat"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/ecWBufcoovY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtu.be/QDia3e12czc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

@@ -1,0 +1,21 @@
+{
+    "id": 1491,
+    "name": "Black Night",
+    "author": "midday",
+    "creators": [
+        "midday"
+    ],
+    "verifier": "midday",
+    "verification": "https://youtu.be/daFSQ8c9-08",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+

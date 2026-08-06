@@ -1,0 +1,39 @@
+{
+    "id": 38,
+    "name": "Unnamed Layout II",
+    "author": "Whaphle",
+    "creators": [
+        "Whaphle"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://www.youtube.com/watch?v=q-r-rBVgc-I",
+    "showcase": "https://www.youtube.com/watch?v=q-r-rBVgc-I",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "funnelltime",
+            "link": "https://www.youtube.com/watch?v=TdlMwRZEKVU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ari",
+            "link": "https://youtu.be/v9S99p1FXAA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://www.youtube.com/watch?v=p0DxnuC6NWc&t=3s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://drive.google.com/file/d/1VX-QwUhcjVsCC1M9xvYBA-Ck3r7xw4TE/view",
+            "percent": 100, "hz": 60 }
+    ]
+
+}
+
+

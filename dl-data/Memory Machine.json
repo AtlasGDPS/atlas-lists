@@ -1,0 +1,22 @@
+{
+    "id": 770,
+    "name": "memory machine",
+    "author": "Dashboi",
+    "creators": [
+        "Dashboi"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://www.youtube.com/watch?v=izO7p0mFIvE",
+    "showcase": "https://www.youtube.com/watch?v=izO7p0mFIvE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "haturz1",
+            "link": "https://www.youtube.com/watch?v=EdipkINliVY&list=LL&index=1",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}
+

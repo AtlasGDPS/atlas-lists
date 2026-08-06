@@ -1,0 +1,21 @@
+{
+    "id": 5250,
+    "name": "Mecha Death",
+    "author": "BigBeefyTender36",
+    "creators": [
+        "BigBeefyTender36"
+    ],
+    "verifier": "Evelyn",
+    "verification": "https://www.youtube.com/watch?v=V8EZ97AhzLo",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

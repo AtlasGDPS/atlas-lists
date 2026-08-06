@@ -1,0 +1,21 @@
+{
+    "id": 169,
+    "name": "Aquapirate",
+    "author": "haturz1",
+    "creators": [
+        "haturz1"
+    ],
+    "verifier": "Aris",
+    "verification": "https://www.youtube.com/watch?v=HxnvgkMEfYs",
+    "showcase": "https://youtu.be/h0v-UFPXhXc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

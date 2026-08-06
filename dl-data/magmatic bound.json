@@ -1,0 +1,20 @@
+{
+    "id": 1165,
+    "name": "magmatic bound",
+    "author": "ARIZZ2013",
+    "creators": [
+        "ARIZZ2013"
+    ],
+    "verifier": "ari",
+    "verification": "https://youtu.be/aOKL0AOJuDY?t=87",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=oMiTrB05jhk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

@@ -1,0 +1,28 @@
+{
+    "id": 3498,
+    "name": "An Abyss Of Badness",
+    "author": "GGRT1",
+    "creators": [
+        "GGRT1"
+    ],
+    "verifier": "Lolly6969",
+    "verification": "https://www.youtube.com/watch?v=LyVAc-hz1Io",
+    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Meta Knight",
+            "link": "https://medal.tv/games/geometry-dash/clips/mIyi6NNce7yIMkAMr?invite=cr-MSxiZGYsMjE3OTQ1MTIz",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+        	"user": "ari",
+        	"link": "https://youtu.be/pL3nE49vnik",
+        	"percent": 100,
+        	"hz": 60
+        }
+    
+    ]
+
+}

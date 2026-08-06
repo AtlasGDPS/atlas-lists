@@ -1,0 +1,56 @@
+{
+    "id": 451,
+    "name": "waving in eden",
+    "author": "KrishnaGD",
+    "creators": [
+        "KrishnaGD"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/gtriOd4gRto",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://www.youtube.com/watch?v=VFrcstPbjqs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "HDJK",
+            "link": "https://www.youtube.com/watch?v=cP94ZNLypQ8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "midday",
+            "link": "https://www.youtube.com/watch?v=gWt1lEzjPT8",
+            "percent": 100,
+            "hz": 30
+        },
+        {
+            "user": "cheezy :3",
+            "link": "https://www.youtube.com/watch?v=eHvyicVGyVk",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=5wkinrXoipw",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "5j4",
+            "link": "https://www.youtube.com/watch?v=Wfx37k7d6ZQ",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "Fuji",
+            "link": "https://medal.tv/games/imported-clips/clips/neCIqq39Zy4jjzayY?invite=cr-MSxUcWksNDY3ODkxNDk1",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+
+}

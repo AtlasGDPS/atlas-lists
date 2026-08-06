@@ -1,0 +1,34 @@
+{
+    "id": 3036,
+    "name": "when you find me",
+    "author": "Slayer1GD",
+    "creators": [
+        "Slayer1GD"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://www.youtube.com/watch?v=hL6x7XeOpJg",
+    "showcase": "https://www.youtube.com/watch?v=hL6x7XeOpJg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Vety",
+            "link": "https://drive.google.com/file/d/1PtbV6dRKSICDy2DWxM9MwshY_htbEJPC/view?usp=drive_link",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Whaphle",
+            "link": "https://youtu.be/Ss-VddgY11k?t=35",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+         {
+            "user": "5j4",
+            "link": "https://youtu.be/WzWGqhz0uDE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

@@ -1,0 +1,27 @@
+{
+    "id": 2102,
+    "name": "Blood  Bath",
+    "author": "[RGDPS] hold3",
+    "creators": [
+        "[RGDPS] hold3"
+    ],
+    "verifier": "midday",
+    "verification": "https://youtu.be/FrIF1cGXNz0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Michalwhow",
+            "link": "https://www.youtube.com/watch?v=wvhjpCct2RU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+        	"user": "Whaphle",
+        	"link": "https://youtu.be/OrkCRvF6kQA?t=64",
+        	"percent": 100,
+        	"hz": 60
+        }
+    ]
+
+}
+
