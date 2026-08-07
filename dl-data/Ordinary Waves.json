@@ -5,10 +5,16 @@
     "creators": [
         "5j4"
     ],
-    "verifier": "Fuji",
-    "verification": "https://youtu.be/9dEiyVyEnRQ?si=swoop",
+    "verifier": "5j4",
+    "verification": "https://youtu.be/O4FyboFkvw0?si=swoop",
     "percentToQualify": 100,
     "records": [
+        {
+        	"user": "Fuji",
+    		"link": "https://youtube.com/watch?v=9dEiyVyEnRQ",
+    		"percent": 100,
+    		"hz": 120
+        },
         {
             "user": "haturz1",
             "link": "https://youtu.be/LUrfYalJ3Uk?si=tOGJDUm4AdehjGvh",
