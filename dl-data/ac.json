@@ -1,1 +1,20 @@
+{
+    "id": 252,
+    "name": "Abstract Cave",
+    "author": "adv3nture",
+    "creators": [
+        "adv3nture"
+    ],
+    "verifier": "haturz1",
+    "verification": "https://youtu.be/dU9hGVIvkpU?si=8YUUXjTA4CbHpmof",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 
+}
