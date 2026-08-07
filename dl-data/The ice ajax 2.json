@@ -19,6 +19,11 @@
             "user": "Michalwhow",
             "link": "https://drive.google.com/file/d/1tSFLDqI1T-O8WDR1ekbaOpCsxzAvUisc/view",
             "percent": 100, "hz": 60
+        },
+        {
+            "user": "cat",
+            "link": "https://youtu.be/_h2NZmctlb4?si=h4qQ009h_0cY-ucd",
+            "percent": 100, "hz": 90, "mobile": true
         }
     ]
 }
