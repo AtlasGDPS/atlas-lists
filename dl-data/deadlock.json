@@ -1,0 +1,20 @@
+{
+    "id": 4440,
+    "name": "DeadLock",
+    "author": "darkplayer077",
+    "creators": [
+        "darkplayer077"
+    ],
+    "verifier": "cyolix",
+    "verification": "https://youtu.be/u9sfw5Qwxa0?si=LO-aMoOvbcULJREZ&t=656",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
