@@ -1,22 +1,24 @@
 {
-    "id": 0,
-    "name": "Name",
-    "author": "Author",
-    "creators": [
-        "Creator"
-    ],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=verification",
-    "showcase": "https://www.youtube.com/watch?v=showcase",
-    "percentToQualify": 100,
+    "id": 57436521,
+    "name": "Sample Level 3",
+    "author": "Different Publisher",
+    "creators": ["Solo_Creator"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "46290",
     "records": [
         {
-            "user": "Placeholder",
-            "link": "https://youtube.com/watch?v=completion",
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
         }
     ]
-
 }
-
