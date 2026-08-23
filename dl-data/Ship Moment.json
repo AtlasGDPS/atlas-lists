@@ -17,8 +17,10 @@
         },
         {
         	"user": "Lolly6969", "link": "https://www.youtube.com/watch?v=LBaB0d0eP9w&t=480s", "percent": 100, "hz": 120
+        	},
+         {
+        	"user": "greencat", "link": "https://drive.google.com/file/d/1z_qFoCF8RmU3Wca_CDGdtV3zksENx5jQ/view", "percent": 100, "hz": 240
         	}
-        
     ]
 
 }
