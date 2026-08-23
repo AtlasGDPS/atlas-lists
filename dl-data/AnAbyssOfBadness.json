@@ -21,8 +21,13 @@
         	"link": "https://youtu.be/pL3nE49vnik",
         	"percent": 100,
         	"hz": 60
-        }
-    
+        },
+    {
+        	"user": "greencat",
+        	"link": "https://youtu.be/jVyNvtDWvCc?si=0lO0cm_DjO6EdCke&t=799",
+        	"percent": 100,
+        	"hz": 240
+        } 
     ]
 
 }
