@@ -1,0 +1,20 @@
+{
+    "id": 5020,
+    "name": "Doublesharp Minor",
+    "author": "penguin7093",
+    "creators": [
+        "penguin7093"
+    ],
+    "verifier": "Lord21",
+    "verification": "https://youtu.be/2MCsw2PfKGg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
