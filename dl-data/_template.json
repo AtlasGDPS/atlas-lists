@@ -1,13 +1,12 @@
 {
-    "id": 0,
-    "name": "Name",
-    "author": "Author",
+    "id": 3621,
+    "name": "Hell Exit",
+    "author": "Flamewall",
     "creators": [
-        "Creator"
+        "Flamewall"
     ],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=verification",
-    "showcase": "https://www.youtube.com/watch?v=showcase",
+    "verifier": "Lord21",
+    "verification": "https://youtu.be/sbRDlpW8crg",
     "percentToQualify": 100,
     "records": [
         {
