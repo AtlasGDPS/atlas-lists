@@ -29,6 +29,13 @@
             "percent": 100,
             "hz":120,
             "mobile": true
+        },
+   {
+            "user": "ThaSuperNova",
+            "link": "https://youtu.be/vKYBJgD3NQc?si=6efIqrLcW9TGCHoX",
+            "percent": 100,
+            "hz":60,
+            "mobile": true
         }
     ]
 
