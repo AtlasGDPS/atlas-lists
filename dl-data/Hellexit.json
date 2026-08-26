@@ -1,0 +1,20 @@
+{
+    "id": 3621,
+    "name": "Hell Exit",
+    "author": "Flamewall",
+    "creators": [
+        "Flamewall"
+    ],
+    "verifier": "Lord21",
+    "verification": "https://youtu.be/sbRDlpW8crg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
