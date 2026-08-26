@@ -1,0 +1,20 @@
+{
+    "id": 5728,
+    "name": "Nature",
+    "author": "SL4GX",
+    "creators": [
+        "SL4GX"
+    ],
+    "verifier": "SLAGX",
+    "verification": "https://youtu.be/qYemLUC-Cgw?is=dvqmXheLwiWh2K2f",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
