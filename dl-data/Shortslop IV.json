@@ -19,14 +19,14 @@
             "user": "Whaphle",
             "link": "https://www.youtube.com/watch?v=CplZ5272ZHQ",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
             "mobile": true
         },
          {
             "user": "SLAGX",
             "link": "https://youtu.be/T7Y3YrygMLg?is=9FHGTXyZ3GKWq1lZ",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
             "mobile": true
         }
     ]
