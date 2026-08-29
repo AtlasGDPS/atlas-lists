@@ -35,6 +35,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+           {
+            "user": "Zonk",
+            "link": "https://www.youtube.com/watch?v=du-ZRPi4Dc4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 
