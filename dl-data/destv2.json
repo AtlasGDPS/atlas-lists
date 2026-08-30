@@ -1,0 +1,19 @@
+{
+    "id": 1909,
+    "name": "Final Destination v2", 
+    "creators": [
+        "ShadowPixel423"
+    ],
+    "author": "ShadowPixel423", 
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=oe8P8UWMf-Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
