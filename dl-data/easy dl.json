@@ -10,10 +10,11 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Placeholder",
-            "link": "https://youtube.com/watch?v=completion",
+            "user": "Whaphle",
+            "link": "https://youtu.be/khBsd0AVGk8?t=250",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 
