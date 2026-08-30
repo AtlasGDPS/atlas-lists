@@ -1,0 +1,19 @@
+{
+    "id": 5379,
+    "name": "Functional Game", 
+    "creators": [
+        "Operrriio"
+    ],
+    "author": "Operrriio", 
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=FbhCavffpBM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
