@@ -1,0 +1,19 @@
+{
+    "id": 2438,
+    "name": "in wavs", 
+    "creators": [
+        "icecream"
+    ],
+    "author": "icecream", 
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=ooz3oBGVWh0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
