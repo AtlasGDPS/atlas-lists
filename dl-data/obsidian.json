@@ -1,0 +1,19 @@
+{
+    "id": 5571,
+    "name": "Obsidian wave v2", 
+    "creators": [
+        "Fujix"
+    ],
+    "author": "Fujix", 
+    "verifier": "Fuji",
+    "verification": "https://youtu.be/QCX4tDBNd9o",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
