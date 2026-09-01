@@ -1,0 +1,21 @@
+{
+    "id": 1590,
+    "name": "Chaotic II",
+    "author": "Xdc",
+    "creators": [
+        "Xdc"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/1JMcV8EkRSk",
+    "showcase": "N/A",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "/",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

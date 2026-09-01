@@ -1,0 +1,21 @@
+{
+    "id": 1496,
+    "name": "How To UFO",
+    "author": "xdc",
+    "creators": [
+        "xdc"
+    ],
+    "verifier": "catfish",
+    "verification": "https://youtu.be/e0jabdg_fFs",
+    "showcase": "https://youtu.be/e0jabdg_fFs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Name",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

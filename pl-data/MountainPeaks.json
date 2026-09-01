@@ -1,0 +1,21 @@
+{
+    "id": 750,
+    "name": "Mountain Peaks",
+    "author": "Clark557",
+    "creators": [
+        "Clark557"
+    ],
+    "verifier": "Dynamic",
+    "verification": "https://youtu.be/AOfhXNye_oE",
+    "showcase": "https://youtu.be/AOfhXNye_oE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Name",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

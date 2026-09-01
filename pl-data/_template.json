@@ -11,7 +11,7 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Placeholder",
+            "user": "Name",
             "link": "https://youtube.com/watch?v=completion",
             "percent": 100,
             "hz": 60

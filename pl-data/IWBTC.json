@@ -1,0 +1,27 @@
+{
+    "id": 583,
+    "name": "I Wanna Be The Creator",
+    "author": "EnterGMD",
+    "creators": [
+        "EnterGMD"
+    ],
+    "verifier": "Whaphle",
+    "verification": "https://youtu.be/nFeYZNZeMYI",
+    "showcase": "https://youtu.be/nFeYZNZeMYI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "catfish",
+            "link": "https://youtu.be/c9fa04t4BXc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Dynamic",
+            "link": "https://youtu.be/nFeYZNZeMYI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}

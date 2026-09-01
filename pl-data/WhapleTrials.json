@@ -1,0 +1,21 @@
+{
+    "id": 2699,
+    "name": "Whaphle Trials",
+    "author": "xdc",
+    "creators": [
+        "xdc"
+    ],
+    "verifier": "xdc",
+    "verification": "N/A",
+    "showcase": "N/A",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Name",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
