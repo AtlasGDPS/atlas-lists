@@ -27,6 +27,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+             },
+        {
+            "user": "greencat",
+            "link": "https://drive.google.com/file/d/1Dn5p0Z23Iz_99s5nHjfR-ux-yMs2D-YU/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
