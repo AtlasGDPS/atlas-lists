@@ -5,16 +5,10 @@
     "creators": [
         "Yellow"
     ],
-    "verifier": "midday",
-    "verification": "https://www.youtube.com/shorts/674CAHOL4go",
+    "verifier": "ari",
+    "verification": "https://youtu.be/WY1-a2VHGW0",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "ari",
-            "link": "https://youtu.be/WY1-a2VHGW0",
-            "percent": 100,
-            "hz": 144
-        },
         {
             "user": "Michalwhow",
             "link": "https://drive.google.com/file/d/16hXQjreospn5fpmX7yf0JWLtGs6nJ7jS/view",
