@@ -14,7 +14,14 @@
             "link": "https://www.youtube.com/watch?v=sXWcEleC-zA",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "greencat",
+            "link": "https://drive.google.com/file/d/1KtG1AQTrTJXSUYL5-Ju7x6qdEO8evb2F/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
         }
+        
     ]
 
 }
