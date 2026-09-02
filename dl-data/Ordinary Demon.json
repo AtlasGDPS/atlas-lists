@@ -26,6 +26,12 @@
         	"link": "https://youtu.be/HrPs4r-ulJI",
         	"percent": 100,
         	"hz": 360
+             },
+        {
+        	"user": "greencat",
+        	"link": "https://drive.google.com/file/d/14G9w95_UauT5FSKKDhHlfIV1FmNlveN0/view?usp=sharing",
+        	"percent": 100,
+        	"hz": 240
         }
     ]
 }
