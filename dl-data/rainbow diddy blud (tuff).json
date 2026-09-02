@@ -33,6 +33,12 @@
         	"link": "https://www.youtube.com/watch?v=VEzzo97l-80",
         	"percent": 100,
         	"hz": 165
+             },
+        {
+        	"user": "River",
+        	"link": "https://www.youtube.com/watch?v=5gdTzwMFRt0",
+        	"percent": 100,
+        	"hz": 400
         }
     ]
 
