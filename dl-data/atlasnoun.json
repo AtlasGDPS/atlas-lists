@@ -23,6 +23,10 @@
         {
             "user": "River", "link": "https://www.youtube.com/watch?v=NRsa9oOxa1c",
             "percent": 100, "hz": 400
+        },
+        {
+            "user": "greencat", "link": "https://drive.google.com/file/d/1xghhExU3JtrPj4JtGSLfnRuav1s6ioit/view?usp=sharing",
+            "percent": 100, "hz": 240
         }
     ]
 
