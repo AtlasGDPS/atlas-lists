@@ -1,0 +1,19 @@
+{
+    "id": 6008,
+    "name": "Disliked in 2013", 
+    "creators": [
+        "ThaSuperNova"
+    ],
+    "author": "ThaSuperNova", 
+    "verifier": "greencat",
+    "verification": "https://youtu.be/X4ae_K3xayM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
