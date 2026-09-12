@@ -1,0 +1,19 @@
+{
+    "id": 5787,
+    "name": "NAN", 
+    "creators": [
+        "lily"
+    ],
+    "author": "lily", 
+    "verifier": "SLAGX",
+    "verification": "https://youtu.be/gNpESPi68Hg?is=bAgsR_WN0vpVV3ks",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
