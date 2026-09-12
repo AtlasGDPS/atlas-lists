@@ -1,0 +1,20 @@
+{
+    "id": 5787,
+    "name": "NAN", 
+    "creators": [
+        "lily"
+    ],
+    "author": "lily", 
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=Nl44g8nsMRI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SLAGX",
+            "link": "https://youtu.be/gNpESPi68Hg?is=bAgsR_WN0vpVV3ks",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+}

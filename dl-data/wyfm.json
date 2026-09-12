@@ -47,6 +47,13 @@
             "link": "https://www.youtube.com/watch?v=b6NYVZ7hrTE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SLAGX",
+            "link": "https://youtu.be/2grKoWqIsTY?is=0D-IQq0mN4_uS7GW",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 
