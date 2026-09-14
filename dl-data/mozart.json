@@ -1,0 +1,19 @@
+{
+    "id": 6103,
+    "name": "A New Mozart Kirkles", 
+    "creators": [
+        "good30"
+    ],
+    "author": "good30", 
+    "verifier": "SLAGX",
+    "verification": "https://youtu.be/IKDI7Aj6UrM?is=34v8lCmHco2WylX8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
