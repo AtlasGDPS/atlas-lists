@@ -1,0 +1,20 @@
+{
+    "id": 5052,
+    "name": "Decaying Worlds",
+    "author": "TheHenlex",
+    "creators": [
+        "TheHenlex"
+    ],
+    "verifier": "KingTY3",
+    "verification": "https://youtu.be/hlMsUF8NfG4?si=b4gmVPMZprE04AYH",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
