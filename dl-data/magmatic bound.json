@@ -14,6 +14,13 @@
             "link": "https://www.youtube.com/watch?v=oMiTrB05jhk",
             "percent": 100,
             "hz": 60
+        },
+        {
+        	"user": "KingTY3",
+        	"link": "https://youtu.be/b0BBF0-gEAc?si=b0wt59hUdkQ1AikC",
+        	"percent": 100,
+        	"hz": 120,
+            "mobile": true
         }
     ]
 
