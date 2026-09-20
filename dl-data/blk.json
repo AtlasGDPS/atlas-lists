@@ -1,0 +1,20 @@
+{
+    "id": 4334,
+    "name": "B L K",
+    "author": "Whaphle",
+    "creators": [
+        "Whaphle"
+    ],
+    "verifier": "KingTY3",
+    "verification": "https://youtu.be/iJ0yka7KUA0?si=2ToloAgTVihe5T1I",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
