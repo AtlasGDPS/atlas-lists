@@ -1,0 +1,20 @@
+{
+    "id": 5345,
+    "name": "memory circles",
+    "author": "ratio",
+    "creators": [
+        "ratio"
+    ],
+    "verifier": "KingTY3",
+    "verification": "https://youtu.be/ruJipqK_AHA?si=BufN27fALMdmHnlb",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
