@@ -54,6 +54,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+        	"user": "KingTY3",
+        	"link": "https://youtu.be/8IPQwiTPJNM?si=kRvsJ1NKFh746na0",
+        	"percent": 100,
+        	"hz": 120,
+            "mobile": true
         }
     ]
 
