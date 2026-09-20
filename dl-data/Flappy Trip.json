@@ -16,6 +16,13 @@
             "percent": 100,
             "mobile": true,
             "message": "never gonna give you up - marc"
+        },
+        {
+        	"user": "KingTY3",
+        	"link": "https://youtu.be/k9RbQihMWy4?si=H9eMxtvPpmwmhIRe",
+        	"percent": 100,
+        	"hz": 120,
+            "mobile": true
         }
     ]
 
