@@ -1,0 +1,20 @@
+{
+    "id": 2872,
+    "name": "I love mom",
+    "author": "Rembie",
+    "creators": [
+        "Rembie"
+    ],
+    "verifier": "KingTY3",
+    "verification": "https://youtu.be/5s888kc20Mo?si=Q_cSxtqu4jL1Gwa9",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
