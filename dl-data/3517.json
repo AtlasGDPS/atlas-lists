@@ -27,6 +27,13 @@
             "link": "https://youtu.be/TrFo5lcIWRk",
             "percent": 100,
             "hz": 200
+        },
+    {
+            "user": "KingTY3",
+            "link": "https://www.youtube.com/watch?v=MxrxzzSPzCk",
+            "percent": 100,
+            "hz": 120
+            "mobile": true
         }
     ]
 
