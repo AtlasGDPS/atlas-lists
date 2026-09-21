@@ -10,10 +10,11 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Placeholder",
-            "link": "https://youtube.com/watch?v=completion",
+            "user": "KingTY3",
+            "link": "https://youtu.be/n-ULBeaQZrM",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 
