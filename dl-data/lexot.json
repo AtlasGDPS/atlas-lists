@@ -1,6 +1,6 @@
 {
     "id": 5909,
-    "name": "Lexot", 
+    "name": "lexot", 
     "creators": [
         "Atlenan"
     ],
@@ -14,6 +14,13 @@
             "link": "https://youtu.be/NEcp6LvbvIg?si=LpOGkOP1MdBWtW_Q",
             "percent": 100,
             "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "ThaSuperNova",
+            "link": "https://youtu.be/UjD_iyG9z14",
+            "percent": 100,
+            "hz": 60,
             "mobile": true
         }
     ]
