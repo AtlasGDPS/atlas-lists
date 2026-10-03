@@ -1,0 +1,20 @@
+{
+    "id": 6324,
+    "name": "Silent clubstep X",
+    "author": "demonjoestar",
+    "creators": [
+        "demonjoestar"
+    ],
+    "verifier": "River",
+    "verification": "https://www.youtube.com/watch?v=B9UAZHu_jsk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
