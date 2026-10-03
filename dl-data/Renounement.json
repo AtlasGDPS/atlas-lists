@@ -27,6 +27,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "River",
+            "link": "https://www.youtube.com/watch?v=O8V6nmmMhc8",
+            "percent": 100,
+            "hz": 310
         }
     ]
 
