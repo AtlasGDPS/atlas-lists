@@ -25,7 +25,13 @@
             "user": "KingTY3",
             "link": "https://youtu.be/SoG209U3-aE?si=6ib5ZYqpVFP7ShOU",
             "percent": 100,
-            "hz": 120    
+            "hz": 120   
+        },
+   {
+            "user": "River",
+            "link": "https://www.youtube.com/watch?v=BmpCvliqLpE",
+            "percent": 100,
+            "hz": 310
         }
     ]
 
