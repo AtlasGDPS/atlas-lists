@@ -1,0 +1,21 @@
+{
+    "id": 6532,
+    "name": "usb",
+    "author": "driedlobster",
+    "creators": [
+        "driedlobster"
+    ],
+    "verifier": "Michalwhow",
+    "verification": "https://youtu.be/jX8CFi1C3vw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
+
