@@ -1,0 +1,20 @@
+{
+    "id": 5076,
+    "name": "As it was",
+    "author": "brotherlordtwo",
+    "creators": [
+        "brotherlordtwo"
+    ],
+    "verifier": "KingTY3",
+    "verification": "https://youtu.be/pJW1Ejevr_8?si=xcZUl6BiL0ZNe5qy",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
