@@ -1,0 +1,20 @@
+{
+    "id": 1151,
+    "name": "2k13",
+    "author": "OL18",
+    "creators": [
+        "OL18"
+    ],
+    "verifier": "BurpC",
+    "verification": "https://youtu.be/G4MmIzaQmGo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
