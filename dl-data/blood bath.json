@@ -19,7 +19,14 @@
         	"user": "Whaphle",
         	"link": "https://youtu.be/OrkCRvF6kQA?t=64",
         	"percent": 100,
-        	"hz": 60
+        	"hz": 60,
+            "mobile": true
+        },
+        {
+        	"user": "meta knight",
+        	"link": "https://medal.tv/games/requested/clips/nPAYJhPHD_utRR3BL?invite=cr-MSxKMk8sMjE3OTQ1MTIz",
+        	"percent": 100,
+        	"hz": 240
         }
     ]
 
