@@ -34,7 +34,13 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
-        }
+        },
+	{
+		"user": "cyolix",
+		"link": "https://youtu.be/QzC152xxtyk?si=_Jp1MqdZBBBHC7fS",
+		"percent": 100,
+		"hz": 60
+	}
     ]
 
 }
