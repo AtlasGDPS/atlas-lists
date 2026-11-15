@@ -1,0 +1,20 @@
+{
+    "id": 6803,
+    "name": "Merkaba Fields",
+    "author": "Lie317",
+    "creators": [
+        "Lie317"
+    ],
+    "verifier": "Lie317",
+    "verification": "https://youtu.be/U7q8SzHMr-g?is=jURe9CTqOfuxRC4U",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
