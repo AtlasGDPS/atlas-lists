@@ -1,0 +1,20 @@
+{
+    "id": 7020,
+    "name": "Free DL Points Pt. 1",
+    "author": "haturz1",
+    "creators": [
+        "haturz1"
+    ],
+    "verifier": "haturz1",
+    "verification": "https://youtu.be/Gig-H56CAGU?si=xMXLQdpVB37Xg_f6",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
