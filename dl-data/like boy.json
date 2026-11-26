@@ -1,0 +1,20 @@
+{
+    "id": 7096,
+    "name": "I like boys",
+    "author": "Erika",
+    "creators": [
+        "Erika"
+    ],
+    "verifier": "Erika",
+    "verification": "https://youtu.be/OBXs4VgCmdY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtube.com/watch?v=completion",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+
+}
